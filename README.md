@@ -34,3 +34,4 @@ description and inventory.
 7. Get rid of the unused `/products/id/description` and
    `/products/id/inventory` routes.
 8. Make sure tests pass!
+<p data-visibility='hidden'>PHRG Using ActiveModel::Serializer Lab</p>
